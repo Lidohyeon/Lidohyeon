@@ -13,7 +13,7 @@ Backend, Cloud Infrastructure, Distributed Systems에 관심을 가지고,
 * 🍃 UMC 10th · Spring Boot 2026.03 ~ 2026.08
 * ☁️ AWS Certified Cloud Practitioner 2026.08
 * 🏆 IoT Capstone 우수 아이디어상 2025.09
-* 🏆 Oracle Hackathon TELOS Challenge 2026 Second Prize 2026.10.17
+* 🏆 Oracle Hackathon TELOS Challenge 2026 Second Prize 2026.10
 
 
 ## 🚀 Projects
